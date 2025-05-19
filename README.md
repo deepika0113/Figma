@@ -190,14 +190,15 @@ HTML
 </div>
 ```
 # OUTPUT:
-![Screenshot 2024-12-22 121408](https://github.com/user-attachments/assets/e3437f67-184c-4c1b-adcf-9b5dddd49fb0)
+![Screenshot 2025-05-19 195048](https://github.com/user-attachments/assets/fe8f8ea7-a191-4c44-a7bd-e432b043eb8c)
+![Screenshot 2025-05-19 195110](https://github.com/user-attachments/assets/c7f55ab0-a8a5-4c95-94c4-2f5c70043f06)
+![Screenshot 2025-05-19 195131](https://github.com/user-attachments/assets/f387958d-321c-4dee-a4a7-88b54110a051)
+![Screenshot 2025-05-19 195147](https://github.com/user-attachments/assets/93e47d4b-d6d4-4928-9ba2-9450d8b955c5)
+![Screenshot 2025-05-19 195208](https://github.com/user-attachments/assets/44c37123-37e2-4904-adc9-b28ec762451e)
 
-![Screenshot (7)](https://github.com/user-attachments/assets/bd4c33ca-4179-487d-80dd-06e9115a084c)
 
-![Screenshot (8)](https://github.com/user-attachments/assets/1e2cf736-ffee-40f9-827d-fd675f560366)
 
-![Screenshot (9)](https://github.com/user-attachments/assets/2406eadb-2e9b-43b6-a2bf-7231b8db02c5)
-![Screenshot (12)](https://github.com/user-attachments/assets/b70a9a0c-f948-475c-ab2d-c7d23b2ca573)
+
 
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
